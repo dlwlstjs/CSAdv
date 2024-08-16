@@ -24,6 +24,8 @@ namespace CSAdv
             Console.WriteLine(wantedString.Value);
             Console.WriteLine(wantedInt.Value);
             Console.WriteLine(wantedDouble.Value);
+
+
         }
     }
 }
